@@ -82,9 +82,10 @@ ___
 ___
 ## FAQ's 💼
 - If Twitch need Two-step verification, check this [Segurity content](https://www.twitch.tv/settings/security).
-- If you still have doubts, you can read the official information on [Twitch](https://dev.twitch.tv/docs/irc#next-steps)
+- If you still have doubts, you can read the official information on [Twitch](https://dev.twitch.tv/docs/irc#next-steps).
 - **What is the Shell?** The shell is the terminal that allows you to execute commands and these are interpreted by the computer, types terminal:
     - CMD (Already installed)
     - [Git Bash](https://git-scm.com/)
     - Windows PowerShell (It is already installed only on Windows)
     - [Windows Terminal](https://www.microsoft.com/es-mx/p/windows-terminal/9n0dx20hk701)
+- If there is an error you can generate an issue in the repository of this project, I will gladly try to help you.
