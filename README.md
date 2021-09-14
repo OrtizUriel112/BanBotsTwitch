@@ -6,6 +6,7 @@
 - [Configurate Enviroment 💻](#configurate-enviroment-)
 - [Running Script 🚗](#running-script-)
 - [Execution ⚔](#execution-)
+- [Tips 🎈](#tips-)
 - [FAQ's 💼](#faqs-)
 ___
 
@@ -21,8 +22,7 @@ ___
 ## Configurate Enviroment 💻
 
 ### **Step 1**
-#### You need to install node dependencies.
-on your **shell**.
+#### You need to install node dependencies with your **shell**, [Tips](#tips-).
 ```
 npm install tmi.js
 ```
@@ -51,7 +51,7 @@ ___
 ```
 node Main.js
 ```
-> Remember to be inside the src folder before executing the command on your 
+> Remember to be inside the src folder before executing the command on your **shell**, [Tips](#tips-).
 ___
 ## Execution ⚔
 ### **Step 1**
@@ -80,12 +80,25 @@ ___
     - Start executing the code sentences that you have written in the "**List.txt**" file.
 > While a command is executed you should not write anything else, wait for an instruction to finish properly.
 ___
-## FAQ's 💼
-- If Twitch need Two-step verification, check this [Segurity content](https://www.twitch.tv/settings/security).
-- If you still have doubts, you can read the official information on [Twitch](https://dev.twitch.tv/docs/irc#next-steps).
+## Tips 🎈
 - **What is the Shell?** The shell is the terminal that allows you to execute commands and these are interpreted by the computer, types terminal:
     - CMD (Already installed)
     - [Git Bash](https://git-scm.com/)
     - Windows PowerShell (It is already installed only on Windows)
     - [Windows Terminal](https://www.microsoft.com/es-mx/p/windows-terminal/9n0dx20hk701)
+- In Windows you can search for **CMD**, **Command Prompt** or press the **Windows + R keys**, it will open a window called Run, you can type **CMD** there and then click OK.
+- To enter the folder type src type the following and press the **Enter key**:
+```
+cd src
+```
+    
+- **cd**
+    - Allows to enter into a folder
+- **ls** or **dir**
+    - View the contents of a folder
+___
+## FAQ's 💼
+- If Twitch need Two-step verification, check this [Segurity content](https://www.twitch.tv/settings/security).
+- If you still have doubts, you can read the official information on [Twitch](https://dev.twitch.tv/docs/irc#next-steps).
+
 - If there is an error you can generate an issue in the repository of this project, I will gladly try to help you.
